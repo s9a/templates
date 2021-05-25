@@ -1,0 +1,62 @@
+* {
+  box-sizing: border-box;
+}
+
+[href] {
+  background: magenta;
+  border-style: solid;
+  border-width: thick;
+  border-color: magenta;
+  color: #111;
+  padding: 1mm;
+}
+
+:focus {
+  outline-style: outset;
+  outline-color: violet;
+  outline-width: 2mm;
+}
+
+:link:hover {
+  border-style: outset;
+  border-color: violet;
+}
+
+::selection {
+  background: lime;
+  color: black;
+}
+
+html {
+  font-size: calc(1em + 1vmax);
+  font-family: sans-serif;
+  background: silver;
+  color: #111;
+}
+
+body {
+  margin: 0;
+  padding: 1em;
+  overflow-wrap: anywhere;
+}
+
+h1 {
+  font-size: 2rem;
+}
+
+dt {
+  font-weight: bold;
+  margin: 0;
+  margin-inline-end: 1ex;
+  margin-block-end: 1em;
+}
+
+dd {
+  margin-inline-start: 0;
+  margin-block-start: 0;
+  margin-block-end: 2em;
+}
+
+address {
+  font-weight: bold;
+}

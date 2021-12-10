@@ -10,4 +10,4 @@
 
 ## [`interwebz`](../../../interwebz) `=`  [`interweb`](../../../interweb) `+` [`zero`](../../../zero)
 
-## [`diy`](../../../diy) is for creating with [dew](../../../dew)
+## [`diy`](../../../diy) is for creating with [`dew`](../../../dew)

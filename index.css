@@ -57,6 +57,10 @@ menu {
   padding: 0;
 }
 
+a {
+  line-height: 1;
+}
+
 li {
   margin-block-start: 1ex;
   margin-block-end: 1rem;

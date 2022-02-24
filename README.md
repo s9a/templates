@@ -1,6 +1,8 @@
 # templates
 
-## [`free`](../../../free) is for creating anything
+## [`free`](../../../free) is for creating public domain
+
+## [`foxy`](../../../foxy) is for creating under MPL
 
 ## [`index`](../../../index) is for creating indexes
 
@@ -11,3 +13,5 @@
 ## [`interwebz`](../../../interwebz) `=`  [`interweb`](../../../interweb) `+` [`zero`](../../../zero)
 
 ## [`diy`](../../../diy) is for creating with [`dew`](../../../dew)
+
+## [`by`](../../../by) is for creating with attribution

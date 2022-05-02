@@ -15,3 +15,5 @@
 ## [`diy`](../../../diy) is for creating with [`dew`](../../../dew)
 
 ## [`by`](../../../by) is for creating with attribution
+
+## [`oracle`](../../../oracle) is for universal creating
